@@ -6,22 +6,18 @@ function FindStringWithMaxLength(array){
 }
 //находит самыю длинныю строки в сгруппированном массиве([ ["a", "aaa"], ["bbb", "b"], ... ]) вывод:[[строка, её длинна], [строка, её длинна]]
 function FindAllStringsWithMaxLength(groupedArray){
-    let result = [];
-    groupedArray.forEach((item)=> result.push(FindStringWithMaxLength(item)));
-    return result;
+    return groupedArray.reduce((result, item)=> [...result, FindStringWithMaxLength(item)], []);
 }
 //возвращает новый сгруппированый массив вида [ ["a", "aaa"], ["bbb", "b"], ... ]
 function TransformToGroupedArray(array, uniqueLetters){
-    let result = [];
-    uniqueLetters.forEach((letter)=> result.push(array.filter((item)=> item[0] == letter)));
-    return result;
+    return uniqueLetters.reduce((result, letter)=> [...result, array.filter((item)=> item[0] == letter)], []);
 }
 //находит все уникальные буквы в строках массива вывод: ["a", "b", "c" ...]
 function FindUniqueLetters(array){
     return arr.map((x)=> x[0])
     .filter((x, index, self)=>self.indexOf(x) === index);
 }
-//ввод: ["aaa", "b", "b", "a"] вывод: [ ["aaa", 3], ["b", 1] ]
+
 function FindUniqueStringsWithMaxLength(arr){
     let uniqueLetters = FindUniqueLetters(arr);
     let groupedArray = TransformToGroupedArray(arr, uniqueLetters);
