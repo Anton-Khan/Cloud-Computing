@@ -21,7 +21,7 @@ function FindUniqueLetters(array){
     return arr.map((x)=> x[0])
     .filter((x, index, self)=>self.indexOf(x) === index);
 }
-
+//ввод: ["aaa", "b", "b", "a"] вывод: [ ["aaa", 3], ["b", 1] ]
 function FindUniqueStringsWithMaxLength(arr){
     let uniqueLetters = FindUniqueLetters(arr);
     let groupedArray = TransformToGroupedArray(arr, uniqueLetters);
