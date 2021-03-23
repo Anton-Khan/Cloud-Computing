@@ -68,7 +68,7 @@ function ExampleOfPublishAll(){
 }
 
 
-// Example
+//Example
     //Create, Subscribe and Publish
 const bus = Bus();
 
