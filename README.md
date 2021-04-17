@@ -5,6 +5,7 @@
 ### Exploding ATE Example
 
 Safe
-![](https://github.com/[Anton-Khan]/[Cloud-Computing]/blob/[master]/SaveCall.png)
+
+![](SaveCall.png)
 Unsafe
-![](https://github.com/[Anton-Khan]/[Cloud-Computing]/blob/[master]/UnSaveCall.png)
+![](UnSaveCall.png)
