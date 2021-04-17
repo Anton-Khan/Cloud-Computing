@@ -1,0 +1,13 @@
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.exe
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.deps.json
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.runtimeconfig.json
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.runtimeconfig.dev.json
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\bin\Debug\netcoreapp3.1\ExplodingATE.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.csprojAssemblyReference.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.AssemblyInfoInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.AssemblyInfo.cs
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.dll
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.pdb
+C:\Users\ANTON\Documents\_Learning\Учеба\8 семестр\РОВ\ExplodingATE\ExplodingATE\obj\Debug\netcoreapp3.1\ExplodingATE.genruntimeconfig.cache
