@@ -6,7 +6,7 @@
 
 Safe
 
-![](SaveCall.png)
+![](SafeCall.png)
 
 Unsafe
-![](UnSaveCall.png)
+![](UnSafeCall.png)
